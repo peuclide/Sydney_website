@@ -8,7 +8,6 @@ navbar:
     - text: "Publications"
       href: Publications.html
 output:
-output_dir: "."
   html_document:
     theme: yeti
     css: style.css
