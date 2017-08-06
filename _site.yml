@@ -6,4 +6,8 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Publications"
-      href: about.html
+      href: Publications.html
+output:
+  html_document:
+    theme: yeti
+    css: style.css
