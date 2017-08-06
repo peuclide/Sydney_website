@@ -1,9 +1,9 @@
 ---
-title: __Sydney Trask, M.A.__
+title: __Sydney Trask, PhD.__
 ---
 <a class="twitter-timeline" data-width="400" data-height="500" href="https://twitter.com/Sydney_Trask">Tweets by Sydney_Trask</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-##Doctoral Candidate  
+##Post Doctoral Researcher  
 ##University of Vermont  
 ##Department of Psychology  
 ##Burlington, Vermont  
