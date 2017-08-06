@@ -1,0 +1,14 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Sydney Trask"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: Publications.html
+output:
+output_dir: "."
+  html_document:
+    theme: yeti
+    css: style.css
