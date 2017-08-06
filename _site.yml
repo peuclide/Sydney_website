@@ -1,13 +1,9 @@
-name: "my-website"
+name: "nicks-website"
 output_dir: "."
 navbar:
-  title: "Sydney Trask"
+  title: "Nicks Website"
   left:
     - text: "Home"
       href: index.html
-    - text: "Publications"
-      href: Publications.html
-output:
-  html_document:
-    theme: yeti
-    css: style.css
+    - text: "About Me"
+      href: about.html
