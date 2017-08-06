@@ -1,7 +1,7 @@
 name: "sydney-website"
 output_dir: "."
 navbar:
-  title: "Sydney Website"
+  title: "Sydney Trask"
   left:
     - text: "Home"
       href: index.html
