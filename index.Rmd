@@ -10,5 +10,5 @@ title: __Sydney Trask, PhD.__
 ###sydney.trask@uvm.edu
 
 
-<img src="photos/profile.jpg" style="float:left" height="400px" width="300px" />
+<img src="photos/trask_profile.jpg" style="float:left" height="400px" width="300px" />
 
