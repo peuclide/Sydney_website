@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "Publications"
       href: Publications.html
+    - text: "Featured Faculty"
+      href: Featured_Faculty.html
 output:
   html_document:
     theme: yeti

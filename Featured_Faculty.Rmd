@@ -1,0 +1,68 @@
+---
+title: "Featured Faculty"
+output:
+  html_document:
+    toc: true
+    toc_depth: 1
+    toc_float: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+---
+
+#Dr. Susan Sangha, March 2019
+
+
+![Dr. Susan Sangha](./featured_faculty/photos/Sangha_lab.jpg)
+
+-----
+
+###__What project are you currently most excited about in your lab?__
+
+Right now, we have some exciting neural data from the PFC collected in freely behaving rats during our safety learning task. At the single neuron level, we are seeing many neurons in the infralimbic cortex responding to a learned safety cue while fear behavior is being suppressed.
+
+###__What challenges, if any, have you experienced as a woman in learning?__
+
+I feel like I have been overall quite lucky to have had really supportive mentors, both male and female, throughout my career. However, when I got my faculty position and was the ‘boss’ of the lab and classroom, it appeared to me I was not getting the same level of respect from students, in the classroom and in the lab, as a new male PI would. 
+In that vein, are there any benefits to being a woman in this field?
+
+ 
+###__What advice would you give yourself 10 years ago?__
+
+That would be 2009, when I finished my first postdoc and was starting my second postdoc. The thing I did right was take a chance and start my line of research on safety learning. The advice I would give myself would probably be “ok, breathe, relax, it’ll all be fine”. I was too stressed about getting the faculty position. I obviously succeeded in getting one, but life would have been fine if I didn’t.
+ 
+###__If you weren’t a scientist, what would you be?__
+ 
+###__What’s your favorite pie?__
+
+I don’t like pie. I do like chocolate cake though.
+ 
+###__What’s your favorite season?__
+
+Fall, I go gaga over colorful fall foliage.
+ 
+###__What’s your favorite movie?__
+ 
+###__What’s your ideal Saturday out of the office?__
+
+Being outside, taking photos and playing with my dog. I don’t live near mountains anymore but a hike in the mountains would be a perfect Saturday. 
+
+###__What do you love about the Pavlovian Society?__
+
+Over the years, it has become to me an interactive and supportive community filled with other learning nerds.
+ 
+###__Finally, who would you like to see featured next month?__
+
+Dr. Mihaela Iordonova from Concordia in Montreal. She is one of the sharpest women in learning I know.
+
+![Dr. Susan Sangha on a hike in Iceland](./featured_faculty/photos/Sangha_iceland.jpg)
+
+----
+
+
+
+
